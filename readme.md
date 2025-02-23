@@ -1,4 +1,4 @@
-The Python trading bot for pump.fun memes, fully automatic and configurable.
+The Python trading bot for solana pump.fun memes, fully automatic and configurable.
 Initial tests show very good results, usually up to 3x in 30minutes
 
 🚀 Revolutionize Your Solana Trading with This High-Performance Automated Bot
