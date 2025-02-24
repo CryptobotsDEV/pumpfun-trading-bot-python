@@ -1,6 +1,8 @@
 The Python trading bot for solana pump.fun memes, fully automatic and configurable.
 Initial tests show very good results, usually up to 3x in 30minutes
 
+See it in action here: https://www.youtube.com/watch?v=3AzbVknX1qU
+
 🚀 Revolutionize Your Solana Trading with This High-Performance Automated Bot
 
 ⚠️ Get full code at: https://cryptobots.dev/
