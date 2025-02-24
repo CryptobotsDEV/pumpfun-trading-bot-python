@@ -2,6 +2,8 @@
 # https://cryptobots.dev/
 # https://t.me/cryptobots_dev
 
+# see it in action: https://www.youtube.com/watch?v=3AzbVknX1qU
+
 # Automated PUMP FUN trading bot that does immediate swaps with about 80% win rate
 # All you need is RPC, WSS address and a BOT wallet (anything on solana)
 # You can change any parameter you wish
